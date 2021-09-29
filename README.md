@@ -36,6 +36,7 @@ Roles: dezvoltatori, testeri, team lead/manager, technical writer, analist, cons
 ## Imaginea arhitecturală
 
 ![image](https://www.pngfind.com/pngs/m/552-5522408_architecture-rest-api-machine-learning-hd-png-download.png)
+![image](https://www.labri.fr/perso/rgiot/cours/jee/api/img/rest-schema.png)
 
 ## Resurse folosite
 
