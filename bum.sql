@@ -108,7 +108,7 @@ insert into Tara values
 (5, 'Romania', 5),
 (6, 'Romania', 6),
 (7, 'Romania', 7),
-(8, 'Romania', 😎,
+(8, 'Romania', 8),
 (9, 'Romania', 9),
 (10, 'Ucraina', 10),
 (11, 'Ucraina', 11),
@@ -147,12 +147,3 @@ insert into Companie values
 
 
 
-insert into Produs values
-(1, 'femei', 'pantofi','90/20', 'bordo', 'textil',760,1, 1, 'este'),
-(2, 'femei', 'pantofi','89/10', 'auriu', 'piele naturala',632, 2, 2, 'este'),
-(3, 'femei','sandale', '56/30','albastru', 'textil',1000,3, 3,'este'),
-(4, 'femei','cizme', '67/45','gri', 'piele ecologica',800, 4, 4, 'este'),
-(5, 'femei', 'cizme', '54/54','rosu','piele ecologica',1900,5, 5, 'este'),
-(6, 'femei', 'adidasi', '78/76','roz','piele ecologica', 2000,6, 6, 'este'),
-(7, 'femei','adidasi','11/109','negru','piele ecologica',700,7,1, 'nu este'),
-(8, 'femei', 'botine', '9/
