@@ -31,7 +31,17 @@ Tot dezvoltatorul trebuie să asigure instruirea persoanelor desemnate de benefi
   [Link către cerințeeeeeeee!](https://www.itecho.ro/cerinte-generale-esentiale-ce-trebuiesc-indeplinite-de-un-site/)
   
 ## Rolurile membrilor echipei:
-Roles: dezvoltatori, testeri, team lead/manager, technical writer, analist, consultant. 
+| Membrul echipei | Roulul |
+| :--- | :---: |
+| Carole Mcarthur | dezvoltator |
+| Wyatt Lindsay | dezvoltator|
+| Arnie Mueller | tester|
+| Pierre Baxter |tester |
+| Danica Jarvis | team lead|
+| Safa Medrano | technical writer|
+| Caitlin Houghton | analist |
+| Rory Foreman | analist |
+| Noel Manning | consultant|
 
 ## Imaginea arhitecturală
 <p align="center">
