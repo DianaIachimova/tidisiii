@@ -31,7 +31,7 @@ Tot dezvoltatorul trebuie să asigure instruirea persoanelor desemnate de benefi
   [Link către cerințeeeeeeee!](https://www.itecho.ro/cerinte-generale-esentiale-ce-trebuiesc-indeplinite-de-un-site/)
   
 ## Rolurile membrilor echipei:
-| Membrul echipei | Roulul |
+| Membrul echipei | Rolul |
 | :--- | :---: |
 | Carole Mcarthur | dezvoltator |
 | Wyatt Lindsay | dezvoltator|
