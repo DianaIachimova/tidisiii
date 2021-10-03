@@ -34,10 +34,10 @@ Tot dezvoltatorul trebuie să asigure instruirea persoanelor desemnate de benefi
 Roles: dezvoltatori, testeri, team lead/manager, technical writer, analist, consultant. 
 
 ## Imaginea arhitecturală
-#### First image
-![image](https://www.pngfind.com/pngs/m/552-5522408_architecture-rest-api-machine-learning-hd-png-download.png)
-#### Second image
-![image](https://www.labri.fr/perso/rgiot/cours/jee/api/img/rest-schema.png)
+<p align="center">
+  <img src="https://www.labri.fr/perso/rgiot/cours/jee/api/img/rest-schema.png">
+</p>
+
 
 ## Resurse folosite
 
