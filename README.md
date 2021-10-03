@@ -10,21 +10,21 @@
 - Marginile site-ului vizibil conturate precum și zonele de conținut din interiorul site-ului vizibil delimitate.
 - Utilizarea unei palete standard de culori în scopul asigurării compatibilității multiplatforma.
 - Design-ul grafic trebuie să fie în ton cu profilul activității beneficiarului iar navigarea trebuie să fie intuitivă și user friendly.
-### 3. Cerințe interfață
+### 3. Cerințe interfață:
 - Interfață site-ului web trebuie poiectată ținându-se cont de recomandările și standardele naționale și internaționale existențe în domeniu.
 - Soluția proiectată și realizată trebuie să conțină 2 secțiuni esențiale:
     - Interfață de logare – care reprezintă interfață platformei web, prin intermediul căreia va fi posibilă administrarea structurii și conținutului pagînilor site-ului.
     - Interfață client – care reprezintă partea publică a platformei accesibilă tuturor utilizatorilor Internet;
 - Interfață de logare în secțiunea de administrare a site-ului trebuie să aibă implementat un plug-în de tipul Captcha, pentru verificarea suplimentară a utilizatorului.
-### 4. Cerințe minime ale bazei de date
+### 4. Cerințe minime ale bazei de date:
 - La originea platformei online trebuie să fie o bază de date în care să fie salvat conținutul sau, cu excepția documentelor extrem de mari în format PDF,DOC,RTF,XLS,ZIP, JPG,AVI,MPEG,etc.
 - Interfață de administrare a site-ului trebuie să poată oferi administratorilor posibilitatea de a efectuă backup periodic și/sau export al conținutului din bază de date.
-### 5. Cerințe esențiale pentru a asigura securitatea site-ului
+### 5. Cerințe esențiale pentru a asigura securitatea site-ului:
 - Site-ul dezvoltat trebuie să ofere protecție pentru vulnerabilitățile comune/fregvente ale site-urilor web(de ex. cross-site scripting, sql injection, insufficient authentication, insufficient authorization, directory indexing etc.).
-### 6. Cerințe de performanță
+### 6. Cerințe de performanță:
 - Timpul mediu de încărcare a unei pagini: max 5 sec, în funcție de tipul de conexiune la internet de care dispune utilizatorul.
 Disponibilitate 99,9%(sau 24/7 exclusiv perioadele de mentenanța).
-### 7. Cerințe de mentenanța, actualizare, dezvoltare și instruire
+### 7. Cerințe de mentenanța, actualizare, dezvoltare și instruire:
 - Dezvoltatorul website-ului va trebui să asigure mentenanța site-ului furnizat, pe o perioadă de minim 3 luni de la data publicări.
 Tot dezvoltatorul trebuie să asigure instruirea persoanelor desemnate de beneficiarul site-ului care vor edita/administră noul site.
   
